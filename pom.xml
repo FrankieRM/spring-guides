@@ -56,5 +56,6 @@
     <modules>
         <module>rest-service</module>
         <module>consuming-rest</module>
+        <module>gs-maven</module>
     </modules>
 </project>
