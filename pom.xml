@@ -57,5 +57,6 @@
         <module>rest-service</module>
         <module>consuming-rest</module>
         <module>gs-maven</module>
+        <module>uploading-files</module>
     </modules>
 </project>
