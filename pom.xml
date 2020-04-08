@@ -58,5 +58,6 @@
         <module>consuming-rest</module>
         <module>gs-maven</module>
         <module>uploading-files</module>
+        <module>messaging-redis</module>
     </modules>
 </project>
