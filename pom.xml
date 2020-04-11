@@ -60,5 +60,6 @@
         <module>uploading-files</module>
         <module>messaging-redis</module>
         <module>accessing-data-neo4j</module>
+        <module>actuator-service</module>
     </modules>
 </project>
